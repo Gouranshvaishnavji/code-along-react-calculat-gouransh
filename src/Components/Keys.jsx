@@ -58,7 +58,7 @@ const Calculator = () => {
             <td><button onClick={() => handleNumberClick('4')}>4</button></td>
             <td><button onClick={() => handleNumberClick('5')}>5</button></td>
             <td><button onClick={() => handleNumberClick('6')}>6</button></td>
-            <td><button onClick={() => handleOperatorClick('*')}>*</button></td>
+            <td><button onClick={() => handleOperatorClick('*')}>x</button></td>
           </tr>
           <tr>
             <td><button onClick={() => handleNumberClick('1')}>1</button></td>
